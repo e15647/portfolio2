@@ -1,0 +1,55 @@
+body {
+
+font-family: Arial, Helvetica, sans-serif;
+overflow: scroll;
+
+}
+
+header{
+
+    background-color: #eea5ef;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+nav{
+
+    background-color: #eea5ef;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+
+}
+
+nav.a{
+
+    color: #fff;
+    text-decoration: none;
+    margin: 50px;
+
+}
+
+section{
+
+    padding: 50px;
+    color: #ffffff;
+    background-color: #eeceee;
+    text-align: center;
+
+}
+
+
+footer{
+
+    background-color: #eea5ef;
+    color: #fff;
+    
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
